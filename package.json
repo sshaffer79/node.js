@@ -1,0 +1,25 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "Example nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node myapp.js"
+  },
+  "engines": {
+    "node": "6.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshaffer79/node.js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Seth Shaffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshaffer79/node.js/issues"
+  },
+  "homepage": "https://github.com/sshaffer79/node.js#readme"
+}
